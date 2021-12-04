@@ -10,8 +10,6 @@ Users were selected at random for inclusion. All selected users had rated at lea
 
 The data are contained in the files links.csv, movies.csv, ratings.csv and tags.csv. More details about the contents and use of all these files follows.
 
-This is a development dataset. As such, it may change over time and is not an appropriate dataset for shared research results. See available benchmark datasets if that is your intent.
-
 
 ### Acknowledgements:
 This dataset is taken from Kaggle, \
