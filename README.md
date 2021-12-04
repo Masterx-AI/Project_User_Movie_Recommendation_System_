@@ -8,9 +8,6 @@ This dataset (ml-latest-small) describes 5-star rating and free-text tagging act
 
 Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
-The data are contained in the files. More details about the contents and use of all these files follows.
-
-
 ### Acknowledgements:
 This dataset is taken from Kaggle, \
 https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset
